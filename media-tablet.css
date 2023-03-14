@@ -1,0 +1,326 @@
+@media screen and (max-width: 768px) and (min-width: 381px) {
+
+    .container {
+        width: 768px;
+    }
+
+    .main-container {
+      margin-top: 117px;
+    }
+
+    header {
+        width: 768px;
+        height: 117px;
+        margin-left: -10px;
+    }
+
+    .logo span {
+      margin-left: -9px;
+    }
+
+    nav {
+        width: 668px;
+        height: 47px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .burger-close {
+      display: none;
+    }
+
+    .navbar {
+        width: 452px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+    .mobile-div {
+        display: none;
+      }
+
+		.welcome {
+      width: 768px;
+      height: 420px;
+      display: flex;
+      flex-direction: row-reverse;
+      margin-left: -10px;
+    }
+
+    .welcome-leaf img {
+      width: 280px;
+      height: 254px;
+      margin-bottom: 75px;
+    }
+
+    .welcome-text {
+      width: 346px;
+      height: 310px;
+      margin-bottom: 49px;
+      margin-left: 22px;
+    }
+
+    .welcome h2 {
+      font-size: 35px;
+      width: 341px;
+      line-height: 50px;
+      text-align: left;
+    }
+    
+    .welcome-text p {
+      font-size: 16px;
+      inline-size: 300px;
+      margin-top: 29px;
+      margin-left: 21px;
+    }
+
+    .welcome-text-btn {
+      width: 158px;
+      height: 44px;
+      margin-top: -9px;
+      margin-left: -5px;
+    }
+
+    .welcome-text-content {
+      line-height: 25px;
+      width: 341px;
+      height: 105px;
+    }
+
+    .about {
+      width: 768px;
+      height: 783px;
+      flex-direction: column;
+      margin-top: 40px;
+    }
+    
+    .about-homeplant {
+      width: auto;
+      margin-top: 40px;
+    }
+
+    .about-homeplant img {
+      width: 250px;
+      height: 258px;
+    }
+
+    .about-text p {
+      line-height: 30px;
+      margin-top: 29px;
+      margin-left: -31px;
+      inline-size: 652px;
+    }
+
+    .about-text h2 {
+      font-size: 35px;
+      width: 423px;
+      margin: 0 127px;
+      text-align: center;
+    }
+
+    .about-text {
+      width: 668px;
+      height: 350px;
+    }
+
+    .service {
+      width: 768px;
+      height: 1780px;
+      margin-top: -41px;
+      margin-left: -16px;
+    }
+
+    .service-text {
+      width: 306px;
+      flex-wrap: wrap;
+    }
+
+    .service-btns {
+      width: 559px;
+      height: 50px;
+      margin-top: -21px;
+      margin-left: 277px;
+      gap: 0 40px;
+    }
+
+    .service-text h2 {
+      font-size: 35px;
+      line-height: 46px;
+    }
+
+    .service-description {
+      width: 668px;
+      height: 1426px;
+      gap: 38px 100px;
+      padding-top: 80px;
+      margin-top: 108px;
+    }
+
+    .service-description img {
+      width: 280px;
+      height: 350px;
+    }
+
+    .service figcaption {
+      width: 280px;
+      height: 100px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: space-around;
+      height: 0;
+      padding-top: 35px;
+    }
+
+    .service-description figure {
+      width: 281px;
+      height: 450px;
+    }
+
+    .service-description p {
+      line-height: 20px;
+      width: 201px;
+      height: 40px;
+      inline-size: 250px;
+      padding-left: 9px;
+    }
+
+    .prices {
+      width: 768px;
+      height: 585px;
+      margin-left: -12px;
+      margin-top: 6px;
+    }
+
+    .prices-prices {
+      width: 332px;
+      height: 282px;
+      margin-left: 6px;
+      margin-top: -13px;
+    }
+    
+    .prices-wrapper {
+      width: 668px;
+      height: 357px;
+    }
+
+    .text-call-us {
+      text-align: right;
+      width: 296px;
+      height: 357px;
+      justify-content: space-between;
+      display: inline-flex;
+      margin-top: 122px;
+      padding-bottom: 0;
+    }
+
+    .text-call-us h2 {
+      font-size: 25px;
+      line-height: 35px;
+      margin-right: -5px;
+    }
+
+    .text-call-us button {
+      margin-top: -5px;
+      margin-right: -6px;
+    }
+
+    .text-call-us figure {
+      margin-bottom: -33px;
+      margin-right: -7px;
+    }
+
+    .prices-prices h2 {
+      font-size: 35px;
+      padding-top: 53px;
+      margin-left: 10px;
+    }
+
+    .prices-items {
+      margin: 58px 14px;
+    }
+
+    .contacts {
+      width: 768px;
+      height: 739px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .contacts img {
+      display: flex;
+      order: 2;
+      height: 248px;  
+      margin-right: 59px;
+      margin: 0;
+    }
+
+    .contacts-btn img {
+      height: 16px;
+    }
+
+    .contacts h2 {
+      margin: 0;
+      margin-top: 37px;
+      margin-left: 1px;
+    }
+
+    .contacts-btn {
+      padding: 0;
+    }
+
+    .contacts-btn button {
+      gap: 0 150px;
+      margin-top: 44px;
+    }
+
+    .city-item {
+      margin-top: 61px;
+    }
+
+    .contacts .women {
+      margin-top: auto;
+      padding-left: 25px;
+      overflow: hidden;
+    }
+
+    .chose-city {
+      padding-top: 53px;
+    }
+
+    .footer {
+      width: 768px;
+      height: 181px;
+      margin-left: -19px;
+    }
+
+    .footer-main {
+      width: 768px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0;
+    }
+
+    .footer-data {
+      margin-bottom: 12px;
+      margin-right: -5px;
+      gap: 0;
+      padding-right: 0;
+    }
+
+    .favicons {
+      margin-right: -5px;
+    }
+
+    .rolling {
+      line-height: 61px;
+      margin-top: -29px;
+    }
+
+}
